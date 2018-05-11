@@ -1,0 +1,1 @@
+# Blob-Trigger-of-Blob-Only-Storage
