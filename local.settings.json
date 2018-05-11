@@ -1,0 +1,11 @@
+{
+    "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=joystorage1;AccountKey=fN3DElayABn9IX/yiFdgWxH0OPt9r8jfHg5pncM+MCGA6bdJmOTLeEzj3Uk09Baa2Q3d5QO9ZJx6ZNGTV3Flig==",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=joystorage1;AccountKey=fN3DElayABn9IX/yiFdgWxH0OPt9r8jfHg5pncM+MCGA6bdJmOTLeEzj3Uk09Baa2Q3d5QO9ZJx6ZNGTV3Flig==",
+
+   // "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=joyblobstorage;AccountKey=VWufRnjEe3pASofTRCh22q/Y8iP5UC9UpRV24mZ8L6fLLGsL/gbpOmzBbNxxObMUto4lgiZxsSKy28HILihqrA==",
+   // "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=joyblobstorage;AccountKey=VWufRnjEe3pASofTRCh22q/Y8iP5UC9UpRV24mZ8L6fLLGsL/gbpOmzBbNxxObMUto4lgiZxsSKy28HILihqrA==",
+    "BlobStorageConnectionString": "DefaultEndpointsProtocol=https;AccountName=joyblobstorage;AccountKey=VWufRnjEe3pASofTRCh22q/Y8iP5UC9UpRV24mZ8L6fLLGsL/gbpOmzBbNxxObMUto4lgiZxsSKy28HILihqrA=="
+  }
+}
